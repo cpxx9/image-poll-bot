@@ -23,11 +23,12 @@ cd <project_name>
 npm install
 ```
 - Create .env file
+<pre>
 ```
 cd <project_name>
 touch .env
 ```
-<pre>
+
   - Add token to .env file
   ```
   cd <project_name>
