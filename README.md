@@ -35,7 +35,7 @@ code .env
 ```
 &emsp;-In the first line of .env file add
 &emsp;<pre>
-  TOKEN = [discord bot token]
+  &emsp;TOKEN = [discord bot token]
 </pre>
 - Install nodemon (optionally use -g instead of -d param to install globally)
 ```
