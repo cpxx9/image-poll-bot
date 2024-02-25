@@ -36,7 +36,7 @@ touch .env
   ```
     In the first line add
     ```
-    TOKEN = \<discord bot token from dev portal\>
+    TOKEN = [discord bot token]
     ```
 </pre>
 - Install nodemon (optionally use -g instead of -d param to install globally)
