@@ -33,7 +33,7 @@ touch .env
 cd <project_name>
 code .env
 ```
-&nbsp;-In the first line of .env file add
+&emsp;-In the first line of .env file add
 ```
 TOKEN = [discord bot token]
 ```
