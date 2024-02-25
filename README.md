@@ -32,10 +32,10 @@ touch .env
 cd <project_name>
 code .env
 ```
-  In the first line add  
-  ```
-  TOKEN = <discord bot token from dev portal>
-  ```
+&nbsp;In the first line add  
+&nbsp;```
+&nbsp;TOKEN = <discord bot token from dev portal>
+&nbsp;```
 - Install nodemon (optionally use -g instead of -d param to install globally)
 ```
 npm i -d nodemon
