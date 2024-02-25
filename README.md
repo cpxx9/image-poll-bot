@@ -5,7 +5,7 @@ This project uses the following environment variables:
 
 | Name                          | Description                         | Default Value                                  |
 | ----------------------------- | ------------------------------------| -----------------------------------------------|
-|TOKEN           | Cors accepted values            | STRING (must be valid bot token)      |
+|TOKEN           | TOKEN accepted values            | STRING (must be valid bot token)      |
 
 
 # Pre-requisites
