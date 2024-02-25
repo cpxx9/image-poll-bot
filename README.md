@@ -23,22 +23,20 @@ cd <project_name>
 npm install
 ```
 - Create .env file
-<pre>
+
 ```
 cd <project_name>
 touch .env
 ```
-
-  - Add token to .env file
-  ```
-  cd <project_name>
-  code .env
-  ```
-    In the first line add
-    ```
-    TOKEN = [discord bot token]
-    ```
-</pre>
+- Add token to .env file
+```
+cd <project_name>
+code .env
+```
+-In the first line of .env file add
+```
+TOKEN = [discord bot token]
+```
 - Install nodemon (optionally use -g instead of -d param to install globally)
 ```
 npm i -d nodemon
