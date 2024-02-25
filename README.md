@@ -22,13 +22,28 @@ git clone  <git lab template url> <project_name>
 cd <project_name>
 npm install
 ```
+- Create .env file
+```
+cd <project_name>
+touch .env
+```
+- Add token to .env file
+```
+cd <project_name>
+code .env
+```
+In the first line add  
+```
+TOKEN = <discord bot token from dev portal>
+```
 - Install nodemon (optionally use -g instead of -d param to install globally)
 ```
 npm i -d nodemon
+```
 - Build and run the project
 ```
 nodemon
-  
+```  
 
 # JavaScript + Node 
 The main purpose of this repository is to create a bot that will react to images to create a basic poll.  
