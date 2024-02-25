@@ -42,4 +42,4 @@ The folder structure of this app is explained below:
 | **node_modules**         | Contains all  npm dependencies                                                            |
 | **src**                  | Contains  source code that will be run                                                    |
 | **src**/index.js         | Entry point to bot app                                                                  |
-| package.json             | Contains npm dependencies as well as [build scripts](#what-if-a-library-isnt-on-definitelytyped)   | tsconfig.json            |
+| package.json             | Contains npm dependencies as well as build scripts  | tsconfig.json            |
